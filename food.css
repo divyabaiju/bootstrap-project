@@ -1,0 +1,160 @@
+.salt{
+    color: rgb(46, 4, 4);
+    font-size: 30px;
+}
+
+
+.caruosel{
+    height: 600px;
+    width: 100%;
+    background-color: rgba(255, 192, 203, 0.68);
+}
+.img2{
+    height: 500px;
+}
+.head1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: rgba(255, 0, 0, 0.774);
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 150px;
+
+}
+
+
+.img3{
+    height: 500px;
+}
+.offer1{
+    color: rgba(255, 0, 0, 0.797);
+}
+
+.overlay-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background: rgba(0, 0, 0, 0.5); Optional background */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 80%; 
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+height: 70px;
+width: 300px;
+}
+.para2{
+    font-size: 40px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.but{
+    margin-top: 100px;
+}
+.para3{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 60px;
+}
+.buttonmain{
+    height: 50px;
+    width: 200px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+
+
+    
+}
+.gather-table{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card2{
+    background-color:papayawhip;
+}
+
+
+.moments{
+    font-size: 40px;
+    margin-top: 50px;
+}
+.booktable
+{
+    background-color:rosybrown;
+    background-image: url(imagebk2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+.bookpara{
+   background-image: url(imgg.jpeg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+
+    
+}
+.footer{
+    margin-top: 80px;
+}
+.images:hover {
+    transform:scale(1.05);
+}
+/* Responsive styles */
+@media (max-width: 768px) {
+    .responsive-button {
+        width: 50%;
+        font-size: 14px;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .responsive-button {
+        font-size: 12px;
+        padding: 10px;
+    }
+}
+ .buttonmain2{
+    height: 50px;
+    width: 200px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 60px; 
+    
+}
+.tablemain{
+height: 500px;
+
+}
+.formtable{
+    margin-top: 50px;
+}
+.para11{
+    margin-top: 50px;
+}
+.buttonp1{
+   margin-top: 50px; 
+}
+.offer2{
+    line-height: normal;
+}
+ .imgcontainer{
+   
+    background-image: url(imagebk2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+} 
